@@ -1,4 +1,8 @@
 # HR Analytics Dashboard
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](Dashboard_Hr_analytics.png)
+
 
 ## 📌 Project Overview
 This project focuses on analyzing employee attendance data to understand **presence trends, work-from-home (WFH) patterns, and sick leave (SL) behavior**. The dashboard provides actionable HR insights to support workforce planning, attendance monitoring, and policy evaluation.
